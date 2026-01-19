@@ -3,5 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Text text='Testing this Fiori app for CTMS' />
+    <VBox >
+    <Text text="-------Suman Added Header--------" />
+    </VBox>
     </Page>
 </mvc:View>
